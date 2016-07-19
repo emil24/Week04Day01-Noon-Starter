@@ -104,7 +104,7 @@
 
 /*about styles*/
 #about{
-	height: 350px;
+
 
 }
 #about .mainColor{
@@ -113,6 +113,39 @@
 #about .mainHeight{
 	height: 100%;
 }
+#about .content{
+	padding: 100px 0;
+}
+#about h1{
+	font-weight: 700;
+}
+#about p{
+	font-style: italic;
+}
+#about .height{
+	height: 120px;
+}
+#about img{
+	border: 5px solid #f1f1f1;
+	border-radius: 100%;
+	width: 150px;
+	height: 150px;
+}
+#about .circ{
+	text-align: center;
+	padding-top: 20%;
+	background-color: #FED136;
+	font-size: 24px;
+	color: white;
+	font-weight: 700;
+	border: 5px solid #f1f1f1;
+	border-radius: 100%;
+	width: 150px;
+	height: 150px;
+}
+
+
+
 /*team styles*/
 #team{
 	height: 400px;
